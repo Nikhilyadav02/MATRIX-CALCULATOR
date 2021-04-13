@@ -1,2 +1,2 @@
 # MATRIX-CALCULATOR
-It calculates matrix
+It calculates multiplication of matrix of 2*2 order:------
